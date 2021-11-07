@@ -1,4 +1,4 @@
-Note: Since the size issues with Github, the dataset for question1 is zipped into q1_dataset.zip. It should be extracted the current folder before running the question 1.
+Note: Since the size issues with Github, the dataset for question1 is zipped into q1_dataset.zip. It should be extracted to the current folder before running the question 1.
 
 To run code:
 
